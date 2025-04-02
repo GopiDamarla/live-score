@@ -7,6 +7,6 @@ import Schedule from './components/Schedule.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    <App /> 
-    {/* <Schedule/> */}
+   
   </StrictMode>,
 )
